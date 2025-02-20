@@ -37,7 +37,7 @@ intersection of design systems and developer experience
 <br>
 <br>
 
-### I am proficient in these technologies.
+### I am proficient in these frameworks.
 
 [![Next][Next.js]][Next-url] [![React][React.js]][React-url] [![Vue][Vue.js]][Vue-url] [![Angular][Angular.io]][Angular-url] [![Astro][Astro.dev]][Astro-url] [![Tailwind][Tailwindcss.com]][Tailwind-url]
 
